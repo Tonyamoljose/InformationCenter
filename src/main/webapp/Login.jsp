@@ -10,7 +10,7 @@
 <body>
 	<center>
 	<h1>
-	Boeing-DevOps_DEMO
+	Java-Maven Application
 	</h1>
 	</center>
 	<div style="width: 102%;
